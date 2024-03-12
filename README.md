@@ -1,2 +1,2 @@
-# deeplearning
-Deep Learning Practices
+# Deep Learning
+- Deep learning references
